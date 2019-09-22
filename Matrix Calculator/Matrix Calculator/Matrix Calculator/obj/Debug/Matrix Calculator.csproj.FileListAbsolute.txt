@@ -1,0 +1,10 @@
+C:\Users\Lin Li\source\repos\Matrix Calculator\Matrix Calculator\bin\Debug\Matrix Calculator.exe.config
+C:\Users\Lin Li\source\repos\Matrix Calculator\Matrix Calculator\bin\Debug\Matrix Calculator.exe
+C:\Users\Lin Li\source\repos\Matrix Calculator\Matrix Calculator\bin\Debug\Matrix Calculator.pdb
+C:\Users\Lin Li\source\repos\Matrix Calculator\Matrix Calculator\obj\Debug\Matrix Calculator.csprojAssemblyReference.cache
+C:\Users\Lin Li\source\repos\Matrix Calculator\Matrix Calculator\obj\Debug\Matrix_Calculator.Properties.Resources.resources
+C:\Users\Lin Li\source\repos\Matrix Calculator\Matrix Calculator\obj\Debug\Matrix Calculator.csproj.GenerateResource.cache
+C:\Users\Lin Li\source\repos\Matrix Calculator\Matrix Calculator\obj\Debug\Matrix Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Lin Li\source\repos\Matrix Calculator\Matrix Calculator\obj\Debug\Matrix Calculator.exe
+C:\Users\Lin Li\source\repos\Matrix Calculator\Matrix Calculator\obj\Debug\Matrix Calculator.pdb
+C:\Users\Lin Li\source\repos\Matrix Calculator\Matrix Calculator\obj\Debug\Matrix_Calculator.FormCalculator.resources
